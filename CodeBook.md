@@ -1,18 +1,19 @@
-**Code Book**
+Code Book
+=========
 
-**This code book describes:**
-**========================**
+This code book describes:
+-------------------------
 
 - the data used for this data analysis project
 - the variables used in the tidy data efforts	
 - transformations or other manipulations used to clean up the data
 - the original 561 variables from the data set.
 
-**The data used for this data analysis project:**
-**============================================**
+The data used for this data analysis project:
+============================================
 
 A full description is available at the site where the data was obtained: 
-======================================================================
+------------------------------------------------------------------------
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
